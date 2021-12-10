@@ -1,0 +1,112 @@
+
+---------------Telemetry---------------
+Block Size: 16666
+Thread: 0
+Thread: 1
+Thread: 2
+Thread: 3
+Thread: 4
+Thread: 5
+---------------------------------------
+test=BigTable threadNum=6 iterations=100000 numList=100 numOperation=116666 runTime(ms)=6 tput(Mops)=17.54
+There are 1000 keys in hash table 0
+There are 1000 keys in hash table 1
+There are 1000 keys in hash table 2
+There are 1000 keys in hash table 3
+There are 1000 keys in hash table 4
+There are 1000 keys in hash table 5
+There are 1000 keys in hash table 6
+There are 1000 keys in hash table 7
+There are 1000 keys in hash table 8
+There are 1000 keys in hash table 9
+There are 1000 keys in hash table 10
+There are 1000 keys in hash table 11
+There are 1000 keys in hash table 12
+There are 1000 keys in hash table 13
+There are 1000 keys in hash table 14
+There are 1000 keys in hash table 15
+There are 1000 keys in hash table 16
+There are 1000 keys in hash table 17
+There are 1000 keys in hash table 18
+There are 1000 keys in hash table 19
+There are 1000 keys in hash table 20
+There are 1000 keys in hash table 21
+There are 1000 keys in hash table 22
+There are 1000 keys in hash table 23
+There are 1000 keys in hash table 24
+There are 1000 keys in hash table 25
+There are 1000 keys in hash table 26
+There are 1000 keys in hash table 27
+There are 1000 keys in hash table 28
+There are 1000 keys in hash table 29
+There are 1000 keys in hash table 30
+There are 1000 keys in hash table 31
+There are 1000 keys in hash table 32
+There are 1000 keys in hash table 33
+There are 1000 keys in hash table 34
+There are 1000 keys in hash table 35
+There are 1000 keys in hash table 36
+There are 1000 keys in hash table 37
+There are 1000 keys in hash table 38
+There are 1000 keys in hash table 39
+There are 1000 keys in hash table 40
+There are 1000 keys in hash table 41
+There are 1000 keys in hash table 42
+There are 1000 keys in hash table 43
+There are 1000 keys in hash table 44
+There are 1000 keys in hash table 45
+There are 1000 keys in hash table 46
+There are 1000 keys in hash table 47
+There are 1000 keys in hash table 48
+There are 1000 keys in hash table 49
+There are 1000 keys in hash table 50
+There are 1000 keys in hash table 51
+There are 1000 keys in hash table 52
+There are 1000 keys in hash table 53
+There are 1000 keys in hash table 54
+There are 1000 keys in hash table 55
+There are 1000 keys in hash table 56
+There are 1000 keys in hash table 57
+There are 1000 keys in hash table 58
+There are 1000 keys in hash table 59
+There are 1000 keys in hash table 60
+There are 1000 keys in hash table 61
+There are 1000 keys in hash table 62
+There are 1000 keys in hash table 63
+There are 1000 keys in hash table 64
+There are 1000 keys in hash table 65
+There are 1000 keys in hash table 66
+There are 1000 keys in hash table 67
+There are 1000 keys in hash table 68
+There are 1000 keys in hash table 69
+There are 1000 keys in hash table 70
+There are 1000 keys in hash table 71
+There are 1000 keys in hash table 72
+There are 1000 keys in hash table 73
+There are 1000 keys in hash table 74
+There are 1000 keys in hash table 75
+There are 1000 keys in hash table 76
+There are 1000 keys in hash table 77
+There are 1000 keys in hash table 78
+There are 1000 keys in hash table 79
+There are 1000 keys in hash table 80
+There are 1000 keys in hash table 81
+There are 1000 keys in hash table 82
+There are 1000 keys in hash table 83
+There are 1000 keys in hash table 84
+There are 1000 keys in hash table 85
+There are 1000 keys in hash table 86
+There are 1000 keys in hash table 87
+There are 1000 keys in hash table 88
+There are 1000 keys in hash table 89
+There are 1000 keys in hash table 90
+There are 1000 keys in hash table 91
+There are 1000 keys in hash table 92
+There are 1000 keys in hash table 93
+There are 1000 keys in hash table 94
+There are 1000 keys in hash table 95
+There are 999 keys in hash table 96
+There are 999 keys in hash table 97
+There are 999 keys in hash table 98
+There are 999 keys in hash table 99
+BigTable validated: all keys have been inserted and retrieved accurately. Hashtables are properly distributed.
