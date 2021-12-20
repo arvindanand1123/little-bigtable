@@ -51,6 +51,19 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-
-#Makefile Cache
+# Makefile Cache
 CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/
+Makefile
+build/
+
+# BigTable Files
+bigtablecout.txt
+hashcout.txt
+trace.txt
+*.html
+
+# Other
+.vscode/
+.DS_store
